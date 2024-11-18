@@ -1,0 +1,134 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Samsung Galaxy S21 Ultra",
+    "product_image": "https://i.ibb.co.com/2crbR5r/Samsung-Galaxy-S21-Ultra-Exynos-21000-review-with-pros-and-cons-14.webp",
+    "category": "Phone",
+    "price": 1200.00,
+    "description": "Flagship smartphone with high-quality camera and display.",
+    "specification": ["6.8-inch Display", "128GB Storage", "108MP Camera", "5000mAh Battery"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 2,
+    "product_name": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/HKHGHZ3/02px9ydzfu4pbdkkqbx9jdk-21-k2xg.jpg",
+    "category": "Laptop",
+    "price": 1600.00,
+    "description": "Business laptop known for durability and performance.",
+    "specification": ["14-inch Display", "512GB SSD", "16GB RAM", "Intel i7"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_name": "ASUS ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/ZgXVbH3/06n6nd-AJmu-Uv-KYLGv1njcn0-5.webp",
+    "category": "Laptop",
+    "price": 1500.00,
+    "description": "Powerful gaming laptop with compact design.",
+    "specification": ["14-inch Display", "1TB SSD", "16GB RAM", "AMD Ryzen 9"],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": 4,
+    "product_name": "Microsoft Surface Laptop 4",
+    "product_image": "https://i.ibb.co.com/LZW1X7R/Mear8-R5-VTWv-X28z-Cirvwra-1200-80.jpg",
+    "category": "Laptop",
+    "price": 1000.00,
+    "description": "Sleek and stylish laptop with excellent display.",
+    "specification": ["13.5-inch Display", "256GB SSD", "8GB RAM", "AMD Ryzen 5"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 5,
+    "product_name": "Amazon Fire HD 10",
+    "product_image": "https://i.ibb.co.com/Xz0bs62/Gear-Amazon-Fire-HD-10-Review.webp",
+    "category": "Tablet",
+    "price": 150.00,
+    "description": "Affordable tablet with Alexa integration.",
+    "specification": ["10.1-inch Display", "64GB Storage", "Quad-core Processor"],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": 6,
+    "product_name": "Google Pixel 6 Pro",
+    "product_image": "https://i.ibb.co.com/pLx2gZV/pixel-6-pro-cnet-review-hoyle-28.webp",
+    "category": "Phone",
+    "price": 900.00,
+    "description": "High-end Android phone with Google’s advanced AI features.",
+    "specification": ["6.7-inch Display", "128GB Storage", "50MP Camera", "5000mAh Battery"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 7,
+    "product_name": "Razer Blade 15",
+    "product_image": "https://i.ibb.co.com/rmb16K3/07r-Zw-TMOswchi3-E2a0ld-A18-35.webp",
+    "category": "Laptop",
+    "price": 2390.91,
+    "description": "High-performance gaming laptop with a sleek design and powerful graphics.",
+    "specification": ["15.6-inch 4K OLED Display", "1TB SSD", "16GB RAM", "NVIDIA GeForce RTX 3070"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 8,
+    "product_name": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/6gvjxgk/image.jpg",
+    "category": "Laptop",
+    "price": 1400.00,
+    "description": "Versatile 2-in-1 laptop with premium build quality.",
+    "specification": ["14-inch Display", "512GB SSD", "16GB RAM", "Intel i7"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 9,
+    "product_name": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/mc0hwVV/xpsblog2.png",
+    "category": "Laptop",
+    "price": 1300.00,
+    "description": "Compact and powerful laptop with a stunning display.",
+    "specification": ["13.4-inch Display", "512GB SSD", "16GB RAM", "Intel i7"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 10,
+    "product_name": "Samsung Galaxy Tab S7",
+    "product_image": "https://i.ibb.co.com/cv0htBy/maxresdefault.jpg",
+    "category": "Tablet",
+    "price": 650.00,
+    "description": "High-resolution Android tablet with S-Pen support.",
+    "specification": ["11-inch Display", "256GB Storage", "Snapdragon 865+"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 11,
+    "product_name": "iPad Pro 11-inch",
+    "product_image": "https://i.ibb.co.com/pjP9rWk/1-x-Ch6m-Ec8r2mv0-ZIb-Yeze-Q.jpg",
+    "category": "Tablet",
+    "price": 800.00,
+    "description": "Powerful tablet with Apple’s M1 chip and excellent display.",
+    "specification": ["11-inch Display", "128GB Storage", "Apple M1 Chip"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 12,
+    "product_name": "OnePlus 9 Pro",
+    "product_image": "https://i.ibb.co.com/YkP4WT6/oneplus-9-pro-textured-matt-yellow-skins-2048x2048.webp",
+    "category": "Phone",
+    "price": 850.00,
+    "description": "Premium smartphone with fast charging and smooth performance.",
+    "specification": ["6.7-inch Display", "256GB Storage", "48MP Camera", "4500mAh Battery"],
+    "availability": false,
+    "rating": 4.5
+  }
+]
